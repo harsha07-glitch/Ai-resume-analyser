@@ -1,1 +1,1 @@
-# Ai-Healthcare-bot
+# Ai-resume analyzer
